@@ -3,4 +3,4 @@ project(firstHomework)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(firstHomework main.cpp)
+add_executable(firstHomework firstHomework.cpp firstHomework.cpp)

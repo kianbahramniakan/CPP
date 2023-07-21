@@ -1,11 +1,5 @@
 # ninja log v5
-1	1009	7116379785650342	CMakeFiles/firstHomework.dir/main.cpp.obj	ee94414e9faefaa8
-1011	1159	7116379787102478	firstHomework.exe	a0d9e5fbca526d28
-5	963	7116381721582395	CMakeFiles/firstHomework.dir/main.cpp.obj	ee94414e9faefaa8
-964	1084	7116381722775498	firstHomework.exe	a0d9e5fbca526d28
-3	829	7116383035175081	CMakeFiles/firstHomework.dir/main.cpp.obj	ee94414e9faefaa8
-830	945	7116383036278325	firstHomework.exe	a0d9e5fbca526d28
-4	840	7116383380194889	CMakeFiles/firstHomework.dir/main.cpp.obj	ee94414e9faefaa8
-841	958	7116383381322299	firstHomework.exe	a0d9e5fbca526d28
 2	810	7116383734207307	CMakeFiles/firstHomework.dir/main.cpp.obj	ee94414e9faefaa8
 811	919	7116383735255095	firstHomework.exe	a0d9e5fbca526d28
+0	571	7116392574621877	CMakeFiles/firstHomework.dir/firstHomework.cpp.obj	e23cf5b44ff1771b
+573	691	7116392575754841	firstHomework.exe	7a006000d0915b56
